@@ -31,7 +31,21 @@ Analysis Performed
 Business Value
 
 The analysis aims to help sales managers understand product performance, identify strong and weak areas, and make data-driven decisions.
+Business Insights
 
+The exploratory data analysis identified the following patterns in the sample sales dataset:
+
+- Laptop generated higher total revenue and a higher average transaction value than Phone.
+- Sharjah recorded higher total revenue and average sales than Dubai.
+- Sharjah showed stronger Laptop revenue, while Dubai showed stronger Phone revenue.
+- Phone sales in Sharjah recorded 2 transactions with total revenue of 7,500.
+
+Recommendations
+
+- Investigate the factors contributing to lower Phone revenue in Sharjah.
+- Compare transaction volumes and average selling values across cities.
+- Explore opportunities to improve product performance by location.
+
+Note: This project uses a small synthetic dataset for demonstration and learning purposes. Findings should not be interpreted as actual market performance.
 Project Status
 
-In Progress — more analysis, visualisations and business recommendations will be added.
